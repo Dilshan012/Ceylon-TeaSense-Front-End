@@ -53,7 +53,7 @@ function App() {
     <div>
       <Navbar bg="light" expand="lg" className="justify-content-between">
         <Container>
-          <Navbar.Brand href="#home">Your Logo</Navbar.Brand>
+          <Navbar.Brand href="#home">Ceylon TeaSense</Navbar.Brand>
           <Nav>
             <Nav.Link onClick={() => setActiveTab('home')}>Home</Nav.Link>
             <Nav.Link onClick={() => setActiveTab('categories')}>Categories</Nav.Link>
